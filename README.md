@@ -1,4 +1,4 @@
-## MyWorkExperience
+## My Work Experience
 
 - **Research Analyst Intern** at YMY Solutions 
   Chicago IL, USA (June 2021 - Current)
