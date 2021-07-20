@@ -7,8 +7,10 @@
 
 - **Portfolio Management Analyst** at Bangkok Bank
   Bangkok, Thailand (August 2019 - August 2020) <br/>
+  
 Portfolio Management Unit (PMU)<br/>
 <img src="AllExperience/BBL_PMU.png" align="center" width="500"> <br/>
+
 Portfolio Management Unit, SME Team(PMU) <br/>
 <img src="AllExperience/BBL_PMU_SME.png" align="center" width="500"> <br/>
 
@@ -16,5 +18,11 @@ Portfolio Management Unit, SME Team(PMU) <br/>
 
 - **Process Engineering Consultant** at Technip FMC 
   Bangkok, Thailand (September 2017 - May 2019)
+  
+Process Engineering Consultant Team <br/>
+<img src="AllExperience/Technip_1.jpeg" align="center" width="500"> <br/>
+
+Girl Power: Process Engineering Consultant Team <br/>
+<img src="AllExperience/Technip_2.jpeg" align="center" width="500"> <br/>
 
 "I developed the thought process and became more detailed oriented at work. Additionally, I learned how to work well under the pressure and became master in prioritizing works and time management while I was working at TechnipFMC "
