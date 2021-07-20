@@ -8,11 +8,10 @@
 - **Portfolio Management Analyst** at Bangkok Bank
   Bangkok, Thailand (August 2019 - August 2020)
 <br/>
-<img src="AllExperience/BBL_PMU.png" align="center" width="350"> <br/>
+<img src="AllExperience/BBL_PMU.png" align="center" width="500"> <br/>
 <br/>
-
-
-
+<img src="AllExperience/BBL_PMU_SME.png" align="center" width="500"> <br/>
+<br/>
 
 "The proudest analysis that I had done was initiating portfolio management optimize strategy which can reduce default and increase overall profit 5% per portfolio. I developed Automatic Models, built loss-forecasting models and balanced default risk and interest return from SMEs under TCG program to augment income. Overall, I had a great time being an Portfolio Management Analyst. I love the job, people and company culture."
 
